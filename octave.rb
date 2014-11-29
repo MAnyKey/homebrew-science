@@ -43,8 +43,6 @@ class Octave < Formula
   option "without-curl",           "Do not use cURL (urlread/urlwrite/@ftp)"
   option "without-fftw",           "Do not use FFTW (fft,ifft,fft2,etc.)"
   option "without-glpk",           "Do not use GLPK"
-  option "without-ghostscript",    "Do not use Ghostscript (PS/PDF image output)"
-  option "without-graphicsmagick", "Do not use GraphicsMagick++ (imread,imwrite)"
   option "without-hdf5",           "Do not use HDF5 (hdf5 data file support)"
   option "without-qhull",          "Do not use the Qhull library (delaunay,voronoi,etc.)"
   option "without-qrupdate",       "Do not use the QRupdate package (qrdelete,qrinsert,qrshift,qrupdate)"
